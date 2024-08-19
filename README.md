@@ -2,7 +2,6 @@
 
 # CDK deployed Fargate Cluster with Load Balancer
 
-
 A Basic project to deploy a Fargate Cluster with Load Balancer using AWS CDK.
 
 To manually create a virtualenv on MacOS and Linux:
